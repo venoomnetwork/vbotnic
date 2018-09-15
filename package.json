@@ -1,6 +1,6 @@
 {
   "name": "VBotnic",
-  "description": "A helping hand for all staff!",
+  "description": "A helping hand for all staff.",
   "version": "1.0.0",
   "main": "bot.js",
   "scripts": {
